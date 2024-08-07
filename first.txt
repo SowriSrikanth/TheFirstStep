@@ -1,1 +1,3 @@
 The first step in git
+
+The second step -staging change
